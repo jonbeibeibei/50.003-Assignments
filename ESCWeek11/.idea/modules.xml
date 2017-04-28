@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicUnitTests/BasicUnitTests.iml" filepath="$PROJECT_DIR$/BasicUnitTests/BasicUnitTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckSumExample/CheckSumExample.iml" filepath="$PROJECT_DIR$/CheckSumExample/CheckSumExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise1/CohortExercise1.iml" filepath="$PROJECT_DIR$/CohortExercise1/CohortExercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise2/CohortExercise2.iml" filepath="$PROJECT_DIR$/CohortExercise2/CohortExercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise3/CohortExercise3.iml" filepath="$PROJECT_DIR$/CohortExercise3/CohortExercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise4/CohortExercise4.iml" filepath="$PROJECT_DIR$/CohortExercise4/CohortExercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise5/CohortExercise5.iml" filepath="$PROJECT_DIR$/CohortExercise5/CohortExercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise6/CohortExercise6.iml" filepath="$PROJECT_DIR$/CohortExercise6/CohortExercise6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise7/CohortExercise7.iml" filepath="$PROJECT_DIR$/CohortExercise7/CohortExercise7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ESCWeek11.iml" filepath="$PROJECT_DIR$/ESCWeek11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example1/Example1.iml" filepath="$PROJECT_DIR$/Example1/Example1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example2/Example2.iml" filepath="$PROJECT_DIR$/Example2/Example2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdentifyingSpec/IdentifyingSpec.iml" filepath="$PROJECT_DIR$/IdentifyingSpec/IdentifyingSpec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestForPerformance/TestForPerformance.iml" filepath="$PROJECT_DIR$/TestForPerformance/TestForPerformance.iml" />
+    </modules>
+  </component>
+</project>

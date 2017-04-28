@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Account/Account.iml" filepath="$PROJECT_DIR$/Account/Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 1/Cohort Exercise 1.iml" filepath="$PROJECT_DIR$/Cohort Exercise 1/Cohort Exercise 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 2/Cohort Exercise 2.iml" filepath="$PROJECT_DIR$/Cohort Exercise 2/Cohort Exercise 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 3/Cohort Exercise 3.iml" filepath="$PROJECT_DIR$/Cohort Exercise 3/Cohort Exercise 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 4/Cohort Exercise 4.iml" filepath="$PROJECT_DIR$/Cohort Exercise 4/Cohort Exercise 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 5/Cohort Exercise 5.iml" filepath="$PROJECT_DIR$/Cohort Exercise 5/Cohort Exercise 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 7/Cohort Exercise 7.iml" filepath="$PROJECT_DIR$/Cohort Exercise 7/Cohort Exercise 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 8/Cohort Exercise 8.iml" filepath="$PROJECT_DIR$/Cohort Exercise 8/Cohort Exercise 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ESCWeek4.iml" filepath="$PROJECT_DIR$/ESCWeek4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parameterized Test/Parameterized Test.iml" filepath="$PROJECT_DIR$/Parameterized Test/Parameterized Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestWithMock/TestWithMock.iml" filepath="$PROJECT_DIR$/TestWithMock/TestWithMock.iml" />
+    </modules>
+  </component>
+</project>

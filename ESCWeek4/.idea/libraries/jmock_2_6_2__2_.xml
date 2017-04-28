@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jmock-2.6-2 (2)">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Cohort Exercise 4/src/jmock-2.6-2.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Cohort Exercise 4/src/jmock-2.6-2.0" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/Cohort Exercise 4/src/jmock-2.6-2.0" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/Cohort Exercise 4/src/jmock-2.6-2.0" recursive="false" type="SOURCES" />
+  </library>
+</component>

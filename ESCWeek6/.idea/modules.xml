@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise2/CohortExercise2.iml" filepath="$PROJECT_DIR$/CohortExercise2/CohortExercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise3/CohortExercise3.iml" filepath="$PROJECT_DIR$/CohortExercise3/CohortExercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise4/CohortExercise4.iml" filepath="$PROJECT_DIR$/CohortExercise4/CohortExercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise5/CohortExercise5.iml" filepath="$PROJECT_DIR$/CohortExercise5/CohortExercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise6&amp;7/CohortExercise6&amp;7.iml" filepath="$PROJECT_DIR$/CohortExercise6&amp;7/CohortExercise6&amp;7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ESCWeek6.iml" filepath="$PROJECT_DIR$/ESCWeek6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkQn1/HomeworkQn1.iml" filepath="$PROJECT_DIR$/HomeworkQn1/HomeworkQn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkQn2/HomeworkQn2.iml" filepath="$PROJECT_DIR$/HomeworkQn2/HomeworkQn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkQn3/HomeworkQn3.iml" filepath="$PROJECT_DIR$/HomeworkQn3/HomeworkQn3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkQn4/HomeworkQn4.iml" filepath="$PROJECT_DIR$/HomeworkQn4/HomeworkQn4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterruptExample/InterruptExample.iml" filepath="$PROJECT_DIR$/InterruptExample/InterruptExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SleepExample/SleepExample.iml" filepath="$PROJECT_DIR$/SleepExample/SleepExample.iml" />
+    </modules>
+  </component>
+</project>

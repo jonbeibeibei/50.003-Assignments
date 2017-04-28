@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise1/CohortExercise1.iml" filepath="$PROJECT_DIR$/CohortExercise1/CohortExercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise2/CohortExercise2.iml" filepath="$PROJECT_DIR$/CohortExercise2/CohortExercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise4/CohortExercise3.iml" filepath="$PROJECT_DIR$/CohortExercise4/CohortExercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise5/CohortExercise5.iml" filepath="$PROJECT_DIR$/CohortExercise5/CohortExercise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CohortExercise6/CohortExercise6.iml" filepath="$PROJECT_DIR$/CohortExercise6/CohortExercise6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ESCWeek12.iml" filepath="$PROJECT_DIR$/ESCWeek12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactorWebserver/FactorWebserver.iml" filepath="$PROJECT_DIR$/FactorWebserver/FactorWebserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concGame/concGame.iml" filepath="$PROJECT_DIR$/concGame/concGame.iml" />
+    </modules>
+  </component>
+</project>

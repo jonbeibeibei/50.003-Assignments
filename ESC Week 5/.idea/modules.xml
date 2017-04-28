@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 1/Cohort Exercise 1.iml" filepath="$PROJECT_DIR$/Cohort Exercise 1/Cohort Exercise 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 3/Cohort Exercise 3.iml" filepath="$PROJECT_DIR$/Cohort Exercise 3/Cohort Exercise 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 5/Cohort Exercise 5.iml" filepath="$PROJECT_DIR$/Cohort Exercise 5/Cohort Exercise 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 6/Cohort Exercise 6.iml" filepath="$PROJECT_DIR$/Cohort Exercise 6/Cohort Exercise 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 7/Cohort Exercise 7.iml" filepath="$PROJECT_DIR$/Cohort Exercise 7/Cohort Exercise 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohort Exercise 9/Cohort Exercise 9.iml" filepath="$PROJECT_DIR$/Cohort Exercise 9/Cohort Exercise 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ESC Week 5.iml" filepath="$PROJECT_DIR$/ESC Week 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkQn1/HomeworkQn1.iml" filepath="$PROJECT_DIR$/HomeworkQn1/HomeworkQn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkQn2/HomeworkQn2.iml" filepath="$PROJECT_DIR$/HomeworkQn2/HomeworkQn2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkQn3/HomeworkQn3.iml" filepath="$PROJECT_DIR$/HomeworkQn3/HomeworkQn3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkQn4/HomeworkQn4.iml" filepath="$PROJECT_DIR$/HomeworkQn4/HomeworkQn4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeworkQn5/HomeworkQn5.iml" filepath="$PROJECT_DIR$/HomeworkQn5/HomeworkQn5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCPSocketsExample/TCPSocketsExample.iml" filepath="$PROJECT_DIR$/TCPSocketsExample/TCPSocketsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UDPExample/UDPExample.iml" filepath="$PROJECT_DIR$/UDPExample/UDPExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
